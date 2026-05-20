@@ -39,7 +39,7 @@ It helps users create strong passwords and check the strength of existing passwo
 
 ## 📷 Screenshots
 ![alt text](image.png)
-![alt text](image-1.png)
+
 
 ---
 
